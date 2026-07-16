@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -60,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
