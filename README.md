@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
 | ------- |
