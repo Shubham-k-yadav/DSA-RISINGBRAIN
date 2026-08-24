@@ -3,46 +3,54 @@ class Solution {
         int [] arr = new int [2];
         int l = 0;
         int r = nums.length-1;
+        int s = -1;
+        int e = -1;
 
-        int s = binarySearch(nums,l,r,target,true);
-        int e = binarySearch(nums,l,r,target,false);
-
-        arr[0] = s;
-        arr[1] = e;
-
-        return arr;
-    }
-
-    public int binarySearch(int[] nums,int l,int r,int target,boolean s)
-    {
-        if(l>r)
+        while(l<=r)
         {
-            return -1;
-        }
+            int mid = l+(r-l)/2;
 
-        int mid = l+ (r-l)/2;
-
-        if(nums[mid] == target)
-        {
-            if(s)
+            if(nums[mid] == target)
             {
-                int temp = binarySearch(nums, l, mid-1, target,true);
-                return (temp==-1) ? mid:temp;
+                s = mid;
+                r = mid-1;   
+            }
+            else if(nums[mid]> target)
+            {
+                r= mid-1;
             }
             else
             {
-                int temp = binarySearch(nums, mid+1,r, target,false);
-                return (temp==-1) ? mid:temp;
+                l = mid+1;
             }
         }
 
-        else if(nums[mid] > target)
+        l = 0;
+        r = nums.length-1;
+
+        while(l<=r)
         {
-           return binarySearch(nums,l,mid-1,target,s);
+            int mid = l+(r-l)/2;
+
+            if(nums[mid] == target)
+            {
+                e = mid;
+                l = mid+1;   
+            }
+            else if(nums[mid]> target)
+            {
+                r= mid-1;
+            }
+            else
+            {
+                l = mid+1;
+            }
         }
-        else 
-        {
-            return binarySearch(nums,mid+1,r,target,s);
-        }
+
+        arr[0] = s;
+        arr[1] = e;
+        
+
+        return arr;
     }
 }
