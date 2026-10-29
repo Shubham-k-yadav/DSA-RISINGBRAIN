@@ -1,42 +1,54 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        int x= 0;
         List<List<Integer>> list = new ArrayList<>();
-        while(x<=nums.length-3)
+
+        for(int i=0;i<nums.length-2;i++)
         {
-            if(x>0 && nums[x] ==nums[x-1]) {
-                x++ ;
-                continue; //ye dubar se duplicate element ko check karne ke liye hai;
+
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
             }
-            int y = x+1;
-            int z = nums.length-1;
+            
+            int j = i+1;
+            int k = nums.length-1;
 
-            while(y<z)
+            while(j<k)
             {
-                
-                if(nums[x]+nums[y]+nums[z] == 0)
+                if(nums[i]+nums[j]+nums[k] == 0)
                 {
-                    
-                    list.add(Arrays.asList(nums[x], nums[y], nums[z]));
-                    
-                    y++;
-                    z--;
+                    List<Integer> subList = new ArrayList<>();
+                    subList.add(nums[i]);
+                    subList.add(nums[j]);
+                    subList.add(nums[k]);
 
-                    while(y<z && nums[y] == nums[y-1]) y++;
-                    while(y<z && nums[z] == nums[z+1]) z--;
+                    list.add(subList);
+                    j++;
+                    k--;
+
+                    while (j < k && nums[j] == nums[j - 1]) 
+                    {
+                        j++;
+                    }
+
+                    while (j < k && nums[k] == nums[k + 1]) 
+                    {
+                        k--;
+                    }
                 }
-                else if(nums[x]+nums[y]+nums[z] > 0)
+                else if(nums[i]+nums[j]+nums[k] > 0)
                 {
-                    z--;
+                    k--;
                 }
                 else
                 {
-                    y++;
+                    j++;
                 }
             }
-            x++;
+
+            
         }
+
         return list;
     }
 }
