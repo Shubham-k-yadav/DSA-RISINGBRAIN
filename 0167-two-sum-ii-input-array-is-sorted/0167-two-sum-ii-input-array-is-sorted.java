@@ -1,27 +1,31 @@
 class Solution {
     public int[] twoSum(int[] nums, int t) {
-        //using two pinter opposite direction
-        int []arr = new int[2];
-        int l = 0;
-        int r = nums.length-1;
+        int n = nums.length;
 
-        while(l<r)
+        int i = 0;
+        int j = n-1;
+
+        int[]arr = new int[2];
+
+        while(i<j)
         {
-            if(nums[l]+nums[r] == t)
+            if(nums[i]+nums[j] == t)
             {
-                arr[0] = l+1;
-                arr[1] = r+1;
-                break;
+                arr[0] = i+1;
+                arr[1] = j+1;
+                return arr;
             }
-            if(nums[l]+nums[r] > t)
+            else if(nums[i]+nums[j] > t)
             {
-                r--;
+                j--;
             }
-            if(nums[l]+nums[r] < t)
+            else
             {
-                l++;
+                i++;
             }
         }
+
         return arr;
+
     }
 }
