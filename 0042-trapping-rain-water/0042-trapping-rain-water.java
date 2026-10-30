@@ -2,37 +2,43 @@ class Solution {
     public int trap(int[] nums) {
         int l = 0;
         int r = nums.length-1;
-        int lmax = 0;
-        int rmax = 0;
-        int w = 0;
+
+
+        int leftMax = 0;
+        int rightMax = 0;
+
+        int ans = 0;
+
         while(l<r)
         {
             if(nums[l]<nums[r])
             {
-                if(nums[l]>=lmax)
+                if(nums[l]>=leftMax)
                 {
-                    lmax = nums[l];
+                    leftMax = nums[l];
                 }
                 else
                 {
-                    w += lmax - nums[l]; 
+                    ans += leftMax-nums[l];
                 }
                 l++;
             }
 
+
             else
             {
-                if(nums[r]>=rmax)
+                if(nums[r]>=rightMax)
                 {
-                    rmax = nums[r];
+                    rightMax = nums[r];
                 }
                 else
                 {
-                    w += rmax - nums[r]; 
+                    ans += rightMax-nums[r];
                 }
                 r--;
             }
         }
-        return w;
+        return ans;
+
     }
 }
