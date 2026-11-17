@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0503-next-greater-element-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0523-continuous-subarray-sum) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
@@ -234,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
