@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0875-koko-eating-bananas) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/1552-magnetic-force-between-two-balls) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0451-sort-characters-by-frequency) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shubham-k-yadav/DSA-RISINGBRAIN/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
